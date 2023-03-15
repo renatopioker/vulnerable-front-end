@@ -9,6 +9,7 @@ To create the logging functionality needed for the new website, you have decided
 
 ```
 git checkout -b ccs-feature-branch
+example
 ```
 
 ## Install vulnerable code dependency
